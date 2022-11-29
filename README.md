@@ -5,4 +5,4 @@ Hi welcome, It is a simple portfolio webpage.
 - HTML
 
 ## Demo
-[this sample](https://integrify-finland.github.io/bof-introduction-sample/)
+To view the site click on the given link [Portfolio](https://polite-bublanina-d08b08.netlify.app/)
